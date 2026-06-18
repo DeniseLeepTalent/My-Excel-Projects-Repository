@@ -77,6 +77,35 @@ By completing this project, I developed:
 
 ---
 
+Welcome to the My-Excel-Projects-Repository wiki!
+
+
+##Product Sales by Category
+
+<img width="1110" height="894" alt="image" src="https://github.com/user-attachments/assets/1551255f-bd30-456a-bc5a-efa822ca7125" />
+
+
+
+## Sales by Gender
+
+<img width="1424" height="907" alt="image" src="https://github.com/user-attachments/assets/b1cadb9d-0d73-44f6-a36f-516fef50baf7" />
+
+
+
+## Sales by Gender and Generation
+
+<img width="1351" height="905" alt="image" src="https://github.com/user-attachments/assets/ec6f94f6-c77c-4f0b-9335-f1b24856ab33" />
+
+
+
+
+## Retails Sales Dataset
+
+<img width="1836" height="908" alt="image" src="https://github.com/user-attachments/assets/b80f7a45-1d22-4350-b7bb-2f30e91e8c57" />
+
+
+
+
 ## ✅ Tools Used
 - Microsoft Excel (2026)
 
