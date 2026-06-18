@@ -82,11 +82,4 @@ By completing this project, I developed:
 
 ---
 
-## 📌 Next Steps
-- Introduce **advanced functions** (e.g. XLOOKUP, INDEX-MATCH)
-- Automate workflows using **Power Query**
-- Enhance dashboards with **Power BI integration**
-
----
-
 > 🎓 *This project marks the first step in building practical data analysis skills within a Data Technician career pathway.*
